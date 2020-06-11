@@ -20,9 +20,8 @@ others frameworks like ([awesome-distributed-systems](https://github.com/theanal
 - [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf)
 - [Practical Byzantine Fault Tolerance and Proactive Recovery](http://www.pmg.csail.mit.edu/papers/bft-tocs.pdf)
 #### The Partitioned Synchronous
--[Consenso Distribuído Eficiente no Modelo Síncrono Particionado](http://www.lasid.ufba.br/publicacoes/artigos/Um+Algoritmo+Eficiente+de+Consenso+Distribu%C3%ADdo+para+o+Modelo+S%C3%ADncrono+Particionado.pdf)
-
--[Perfect Failure Detection in the Partitioned Synchronous Distributed System Model](https://ieeexplore.ieee.org/document/5066483) 
+- [Consenso Distribuído Eficiente no Modelo Síncrono Particionado](http://www.lasid.ufba.br/publicacoes/artigos/Um+Algoritmo+Eficiente+de+Consenso+Distribu%C3%ADdo+para+o+Modelo+S%C3%ADncrono+Particionado.pdf)
+- [Perfect Failure Detection in the Partitioned Synchronous Distributed System Model](https://ieeexplore.ieee.org/document/5066483) 
 
 ## Courses
 - [ETH Zurich: Distributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/)
